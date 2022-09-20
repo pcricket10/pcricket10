@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hello There! I am Philip McCrickard
+
+* my [Portfolio](https://pcricket10.github.io/)
+
+🚧 UNDER CONSTRUCTION 🚧
 <!--
 **pcricket10/pcricket10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
