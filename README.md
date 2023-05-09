@@ -7,9 +7,7 @@ I am a gamer who plays Final Fantasy XIV, I am also big into simulation games su
 - my [Portfolio](https://pcricket10.github.io/)
 - featured project: Airbeanb [repo](https://github.com/pcricket10/Airbeanb) | [live site](https://airbeanb-pcricket10.herokuapp.com/)
 
-- [LinkedIn](https://www.linkedin.com/in/pcricket10/) -- [Wellfound](https://wellfound.com/u/philip-mccrickard) -- [GitHub](https://github.com/pcricket10) (who doesn't like a little recursion?)
-
-🚧 UNDER CONSTRUCTION 🚧
+- [LinkedIn](https://www.linkedin.com/in/pcricket10/) -- [Wellfound](https://wellfound.com/u/philip-mccrickard) -- [LeetCode](https://leetcode.com/mccrickard/) -- [GitHub](https://github.com/pcricket10) (who doesn't like a little recursion?)
 
 <!--
 **pcricket10/pcricket10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
